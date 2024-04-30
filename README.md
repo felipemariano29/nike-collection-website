@@ -1,6 +1,8 @@
+# Nike
+
 # Nike Collection Website
 
-Bem-vindo ao README do Nike Collection Website! Este projeto é uma aplicação React que apresenta a mais recente coleção de verão de sapatos da Nike. Os usuários podem explorar produtos populares, ler avaliações de clientes, conhecer ofertas especiais e se inscrever para receber atualizações e boletins informativos.
+Bem-vindo ao README do Clone do Nike Collection Website! Este projeto é uma aplicação React que apresenta uma das coleções de verão de sapatos da Nike. Os usuários podem explorar produtos populares, ler avaliações de clientes, conhecer ofertas especiais e se inscrever para receber atualizações e boletins informativos.
 
 ## Seções
 
